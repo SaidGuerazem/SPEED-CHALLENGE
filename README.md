@@ -21,7 +21,7 @@ Transfer learning techniques were applied to fine-tune the pre-trained ResNet-50
 
 ## Reference
 
-The SPEED Dataset is the official dataset of ESA's Kelvins "Pose Estimation Challenge" in collaboration with Stanford University's Space Rendezvous Lab (SLAB). For more information, visit [ESA Kelvins Challenge](https://kelvins.esa.int/speed)
+The SPEED Dataset is the official dataset of ESA's Kelvins "Pose Estimation Challenge" in collaboration with Stanford University's Space Rendezvous Lab (SLAB). For more information, visit [ESA Kelvins Challenge](https://kelvins.esa.int/satellite-pose-estimation-challenge/)
 
 ## License
 
